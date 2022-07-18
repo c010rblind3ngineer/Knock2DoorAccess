@@ -7,7 +7,7 @@
                 - 220Ohm resistor (x3)
                 - Push button tactile switch
                 - LCD I2C (20x4)
-                - Breakboard
+                - Breadboard
                 - Some jumper wires
 
    Libraries:
